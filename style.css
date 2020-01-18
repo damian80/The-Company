@@ -227,7 +227,12 @@ p {
 .bg-primary {
     background-color: #7ab436;
     color: white;
-    width: 50%;
+    width: 100%;
+}
+
+.btn-dark:hover {
+    cursor: pointer;
+    background-color: #444;
 }
 
 .btn-dark {
